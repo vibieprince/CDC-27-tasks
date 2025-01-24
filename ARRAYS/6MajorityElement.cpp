@@ -1,3 +1,4 @@
+// Majority element (geeksforgeeks)
 #include<iostream>
 #include<vector>
 #include<algorithm>
