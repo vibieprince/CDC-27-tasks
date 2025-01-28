@@ -1,17 +1,6 @@
 // Palindrome Linked List (geeksforgeeks)
 #include<iostream>
 using namespace std;
-//{ Driver Code Starts
-#include <algorithm>
-#include <bits/stdc++.h>
-#include <cmath>
-#include <cstdio>
-#include <ios>
-#include <iostream>
-#include <random>
-#include <sstream>
-#include <string>
-#include <vector>
 
 using namespace std;
 
